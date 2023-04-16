@@ -12,7 +12,7 @@ OBS: a remuneração da caderneta de poupança  é creditada mensalmente apenas 
 - Mostrar o novo saldo do cliente, a partir da taxa de rendimento, daqueles que possuem conta poupança;
 - Mostrar saldo  da em conta corrente
 
-
+------
 02) Escreva uma classe chamada Pessoa com os seguintes atributos: nome, idade, implemente também um construtor obrigatório (com os parâmetros: nome e idade) e o método mostraDados() que exibe os dados da pessoa no console.
 
  Escrever uma outra classe chamada Aluno,  ela deve herdar de Pessoa, tal classe possui as seguintes características:  atributos: nome do curso que está cursando,  construtor para inicializar os atributos e sobrescrita do método mostraDados() para exibir também o nome do curso.
@@ -28,7 +28,7 @@ OBS: a remuneração da caderneta de poupança  é creditada mensalmente apenas 
  - Livro de Não Ficção possui o atributo tema e tópico (Ex: Tema Matemática, tópico Números Complexo) e os métodos recomendarOutrosTitulos(): recomenda outros Titulos de Livros, e a sobrescrita do método InformarDetalhes() para informar também os atributos da subclasse LivroDeNaoFiccao..
  Finalize criando uma classe para testar as funcionalidades desenvolvidas.
 
-
+------
 03)  Uma loja comercial tem 2 tipos de funcionários: vendedores e administrativos. Para todos os  funcionários a empresa precisa ter os registros do Nome, RG, salário e calcular o holerite do funcionário. 
 Os vendedores têm um salário base, mas ganham também comissão com base em suas vendas. Os administrativos têm um salário fixo, mas podem ganhar adicionais com base em hora extra. 
 

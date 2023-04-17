@@ -21,6 +21,11 @@ OBS: a remuneração da caderneta de poupança  é creditada mensalmente apenas 
 - Perguntar ao usuário,  se ele deseja instanciar um aluno ou uma pessoa
 - Criar o objeto correspondente, e chamar o método mostraDados() para exibir os dados da pessoa ou do aluno. 
 
+------
+03) Faça um programa para gerenciar uma biblioteca, será necessário representar diferentes tipos de livros: Livros Didáticos, Livros de Ficção e Livros de Não Ficção. Temos algumas propriedades em comum, como título, nome do autor, número de páginas e o método InformarDetalhes() que exibe informações como título, nome do autor e número de páginas. 
+ Dessa forma utilize herança para criar uma super classe chamada Livro, que contém as propriedades comuns a todos os tipos de livros. 
+ Em seguida, herde da super classe para criar as subclasses de LivrosDidaticos, LivrosDeFiccao e LivrosDeNaoFiccao, tais entidades contêm suas próprias específicidades..
+
 - Livro Didático possui os atributos disciplina, ano escolar, nível de ensino e os métodos verificarCompatibilidade(): verifica se o livro é compatível com o nível escolar informado e a  sobrescrita do método InformarDetalhes() para informar também os atributos da subclasse LivroDidatico.
 
  - Livro de Ficção possui os atributos gênero e subgênero (Ex: gênero Guerra subgênero Espacial) e os métodos sinopseDoLivro() informa um pequeno trecho sobre a história do livro, e a sobrescrita do método InformarDetalhes() para informar também os atributos da subclasse LivroDeFiccao. 
@@ -30,7 +35,7 @@ OBS: a remuneração da caderneta de poupança  é creditada mensalmente apenas 
 Finalize criando uma classe para testar as funcionalidades desenvolvidas.
 
 ------
-03)  Uma loja comercial tem 2 tipos de funcionários: vendedores e administrativos. Para todos os  funcionários a empresa precisa ter os registros do Nome, RG, salário e calcular o holerite do funcionário. 
+04)  Uma loja comercial tem 2 tipos de funcionários: vendedores e administrativos. Para todos os  funcionários a empresa precisa ter os registros do Nome, RG, salário e calcular o holerite do funcionário. 
 Os vendedores têm um salário base, mas ganham também comissão com base em suas vendas. Os administrativos têm um salário fixo, mas podem ganhar adicionais com base em hora extra. 
 
  - Defina uma herança entre as classes, de tal modo  que exista  uma superclasse que implemente o que for comum aos dois tipos de funcionários e uma subclasse para cada tipo.

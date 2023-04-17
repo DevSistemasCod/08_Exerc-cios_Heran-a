@@ -32,11 +32,11 @@ OBS: a remuneração da caderneta de poupança  é creditada mensalmente apenas 
 03)  Uma loja comercial tem 2 tipos de funcionários: vendedores e administrativos. Para todos os  funcionários a empresa precisa ter os registros do Nome, RG, salário e calcular o holerite do funcionário. 
 Os vendedores têm um salário base, mas ganham também comissão com base em suas vendas. Os administrativos têm um salário fixo, mas podem ganhar adicionais com base em hora extra. 
 
- Defina uma herança entre as classes, de tal modo  que exista  uma superclasse que implemente o que for comum aos dois tipos de funcionários e uma subclasse para cada tipo.
+ - Defina uma herança entre as classes, de tal modo  que exista  uma superclasse que implemente o que for comum aos dois tipos de funcionários e uma subclasse para cada tipo.
 
- Os vendedores devem ter um método que acumule o total de vendas durante o mês e um método que imprima seu salário total considerando que a comissão é de 5% sobre cada venda.
+ - Os vendedores devem ter um método que acumule o total de vendas durante o mês e um método que imprima seu salário total considerando que a comissão é de 5% sobre cada venda.
  
- No caso dos administrativos as horas extras  são acumuladas e pagas com o valor de um centésimo do salário por hora.
+ - No caso dos administrativos as horas extras  são acumuladas e pagas com o valor de um centésimo do salário por hora.
  Finalize criando uma classe para testar as funcionalidades desenvolvidas.
 
 

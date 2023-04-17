@@ -25,8 +25,9 @@ OBS: a remuneração da caderneta de poupança  é creditada mensalmente apenas 
 
  - Livro de Ficção possui os atributos gênero e subgênero (Ex: gênero Guerra subgênero Espacial) e os métodos sinopseDoLivro() informa um pequeno trecho sobre a história do livro, e a sobrescrita do método InformarDetalhes() para informar também os atributos da subclasse LivroDeFiccao. 
 
- - Livro de Não Ficção possui o atributo tema e tópico (Ex: Tema Matemática, tópico Números Complexo) e os métodos recomendarOutrosTitulos(): recomenda outros Titulos de Livros, e a sobrescrita do método InformarDetalhes() para informar também os atributos da subclasse LivroDeNaoFiccao..
- Finalize criando uma classe para testar as funcionalidades desenvolvidas.
+ - Livro de Não Ficção possui o atributo tema e tópico (Ex: Tema Matemática, tópico Números Complexo) e os métodos recomendarOutrosTitulos(): recomenda outros Titulos de Livros, e a sobrescrita do método InformarDetalhes() para informar também os atributos da subclasse LivroDeNaoFiccao.
+
+Finalize criando uma classe para testar as funcionalidades desenvolvidas.
 
 ------
 03)  Uma loja comercial tem 2 tipos de funcionários: vendedores e administrativos. Para todos os  funcionários a empresa precisa ter os registros do Nome, RG, salário e calcular o holerite do funcionário. 
@@ -37,6 +38,7 @@ Os vendedores têm um salário base, mas ganham também comissão com base em su
  - Os vendedores devem ter um método que acumule o total de vendas durante o mês e um método que imprima seu salário total considerando que a comissão é de 5% sobre cada venda.
  
  - No caso dos administrativos as horas extras  são acumuladas e pagas com o valor de um centésimo do salário por hora.
- Finalize criando uma classe para testar as funcionalidades desenvolvidas.
+
+Finalize criando uma classe para testar as funcionalidades desenvolvidas.
 
 
